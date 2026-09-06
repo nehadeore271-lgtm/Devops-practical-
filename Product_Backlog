@@ -1,0 +1,26 @@
+# Prioritized Product Backlog & Story Point Estimation
+## Estimation Scale (Fibonacci Scale)
+
+| Story Points | Complexity Level | Description |
+| :--- | :--- | :--- |
+| **1** | Very Easy | Simple text changes or minor config[span_56](start_span)[span_56](end_span). |
+| **2** | Easy | Basic UI updates or minor backend logic[span_57](start_span)[span_57](end_span). |
+| **3** | Moderate | Standard feature implementation[span_58](start_span)[span_58](end_span). |
+| **5** | Difficult | Multi-component development or complex logic[span_59](start_span)[span_59](end_span). |
+| **8** | Very Difficult | Major module integration or security logic[span_60](start_span)[span_60](end_span). |
+| **13** | Highly Complex | Architecture setup or critical multi-system workflows[span_61](start_span)[span_61](end_span). |
+
+---
+## Prioritized Product Backlog Table
+
+| Priority | Epic | User Story | Story Points |
+| :--- | :--- | :--- | :--- |
+| **High** | Authentication & Security | User Login & Role-Based Access[span_62](start_span)[span_62](end_span) | 5 |
+| **High** | Student Management | Student Registration & Profile Setup[span_63](start_span)[span_63](end_span) | 5 |
+| **High** | Student Management | Student Search & Lookup[span_64](start_span)[span_64](end_span) | 3 |
+| **High** | Attendance Management | Record Student Attendance[span_65](start_span)[span_65](end_span) | 5 |
+| **Medium** | Course Management | Add & Assign Courses[span_66](start_span)[span_66](end_span) | 3 |
+| **Medium** | Marks & Performance | Enter Marks & Calculate Grades[span_67](start_span)[span_67](end_span) | 5 |
+| **Medium** | Reporting | Attendance & Student Reports[span_68](start_span)[span_68](end_span) | 3 |
+| **Medium** | Notifications | Attendance & Exam Alerts[span_69](start_span)[span_69](end_span) | 3 |
+| **Low** | Analytics Dashboard | Academic Analytics & Metrics[span_70](start_span)[span_70](end_span) | 8 |

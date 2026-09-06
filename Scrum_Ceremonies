@@ -1,0 +1,20 @@
+# Scrum Ceremonies Documentation
+
+## Daily Scrum Template
+Every team member addresses three daily core questions:
+1. What did I complete yesterday[span_99](start_span)[span_99](end_span)?
+2. What will I work on today[span_100](start_span)[span_100](end_span)?
+3. What impediments or obstacles am I facing[span_101](start_span)[span_101](end_span)?
+
+---
+
+## Sprint Review Report
+* **Demonstrated Increment**: Completed Sprint 1 deliverables, including database connection setup, working login interface, authentication error handling, and basic dashboard routing[span_102](start_span)[span_102](end_span).
+* **Stakeholder Feedback**: Product Owner verified that invalid login handling meets acceptance criteria[span_103](start_span)[span_103](end_span). Dashboard navigation approved[span_104](start_span)[span_104](end_span).
+
+---
+
+## Sprint Retrospective Report
+* **What Went Well**: Smooth collaboration during Planning Poker estimations and rapid UI prototyping[span_105](start_span)[span_105](end_span).
+* **Challenges Encountered**: Initial confusion over session timeout handling for role-based routes[span_106](start_span)[span_106](end_span).
+* **Actionable Improvements**: Create standardized API response formats before Sprint 2 execution[span_107](start_span)[span_107](end_span).

@@ -1,0 +1,15 @@
+# Comparative Analysis of Agile Frameworks
+
+| Framework | Core Characteristics | Strengths | Ideal Context |
+| :--- | :--- | :--- | :--- |
+| **Scrum** | Timeboxed Sprints (1-4 weeks), predefined roles (PO, SM, Dev), key ceremonies[span_108](start_span)[span_108](end_span). | Structured iterations, predictable cadence, high visibility[span_109](start_span)[span_109](end_span). | Small-to-medium software projects with evolving requirements[span_110](start_span)[span_110](end_span). |
+| **Kanban** | Continuous flow visual board, explicit WIP (Work In Progress) limits[span_111](start_span)[span_111](end_span). | Reduces bottlenecking, highly adaptable to shifting priorities[span_112](start_span)[span_112](end_span). | Maintenance, operational support, continuous delivery pipelines[span_113](start_span)[span_113](end_span). |
+| **Extreme Programming (XP)** | Focuses on engineering excellence (Pair Programming, TDD, CI/CD)[span_114](start_span)[span_114](end_span). | Exceptionally high code quality and test coverage[span_115](start_span)[span_115](end_span). | Projects with demanding code quality requirements[span_116](start_span)[span_116](end_span). |
+| **Lean Development** | Focuses on eliminating waste, amplifying learning, delivering fast[span_117](start_span)[span_117](end_span). | Highly efficient resource utilization[span_118](start_span)[span_118](end_span). | Startups and MVP-driven product validation[span_119](start_span)[span_119](end_span). |
+| **LeSS / SAFe / Scrum@Scale** | Scaled Agile frameworks extending Scrum across multiple teams[span_120](start_span)[span_120](end_span). | Alignment and governance across large enterprises[span_121](start_span)[span_121](end_span). | Enterprise multi-team projects[span_122](start_span)[span_122](end_span). |
+
+---
+## Recommended Framework Selection
+**Selected Framework**: **Scrum**[span_123](start_span)[span_123](end_span)
+**Justification**:
+The **Student Record and Academic Management Platform** is a fixed-scope academic project with clear functional modules (Epics) suited for 2-week iteration cycles[span_124](start_span)[span_124](end_span). Scrum provides the necessary structure, roles, and review checkpoints to ensure incremental feature delivery[span_125](start_span)[span_125](end_span).

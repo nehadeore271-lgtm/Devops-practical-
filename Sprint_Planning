@@ -1,0 +1,30 @@
+# Sprint Planning & Workflow Document
+## Sprint Execution Plan
+**Sprint 1: User Authentication & Project Setup**[span_71](start_span)[span_71](end_span)
+* **Goal**: Establish core application architecture and secure user login[span_72](start_span)[span_72](end_span).
+* **Activities**:
+  * Repository initialization and baseline environment setup[span_73](start_span)[span_73](end_span).
+  * Build user login and role-based access control[span_74](start_span)[span_74](end_span).
+  * Implement password reset workflows[span_75](start_span)[span_75](end_span).
+  * Basic dashboard layout development[span_76](start_span)[span_76](end_span).
+**Sprint 2: Student Management Module**[span_77](start_span)[span_77](end_span)
+* **Goal**: Enable full administrative management of student records[span_78](start_span)[span_78](end_span).
+* **Activities**:
+  * Implement Add Student functionality[span_79](start_span)[span_79](end_span).
+  * Implement Search and Filter Student records[span_80](start_span)[span_80](end_span).
+  * Implement Update Student profile features[span_81](start_span)[span_81](end_span).
+  * Implement Soft Delete for student records[span_82](start_span)[span_82](end_span).
+**Sprint 3: Course & Attendance Management Module**[span_83](start_span)[span_83](end_span)
+* **Goal**: Deliver core academic workflows for course listing and attendance[span_84](start_span)[span_84](end_span).
+* **Activities**:
+  * Add and update course information[span_85](start_span)[span_85](end_span).
+  * Assign students to specific courses[span_86](start_span)[span_86](end_span).
+  * Develop daily attendance recording interface[span_87](start_span)[span_87](end_span).
+  * Generate exportable attendance reports[span_88](start_span)[span_88](end_span).
+---
+## Scrum Board Workflow Structure
+
+| Backlog | To Do | In Progress | Testing | Completed |
+| :--- | :--- | :--- | :--- | :--- |
+| Academic Analytics[span_89](start_span)[span_89](end_span) | Course Updates[span_90](start_span)[span_90](end_span) | Add Student[span_91](start_span)[span_91](end_span) | User Login[span_92](start_span)[span_92](end_span) | Repo Setup[span_93](start_span)[span_93](end_span) |
+| Notifications[span_94](start_span)[span_94](end_span) | Assign Courses[span_95](start_span)[span_95](end_span) | Record Attendance[span_96](start_span)[span_96](end_span) | Student Search[span_97](start_span)[span_97](end_span) | DB Schema[span_98](start_span)[span_98](end_span) |
